@@ -1,31 +1,31 @@
 # monorepo-boilerplate-dotnet
 
-## Giới thiệu
+## Introduction
 
-Chào mừng bạn đến với **monorepo-boilerplate-dotnet** - tổ chức tập hợp các monolithic source code boilerplate được thiết kế để tiết kiệm thời gian setup và khởi tạo dự án của bạn.
+Welcome to **monorepo-boilerplate-dotnet** - an organization that provides a collection of monolithic source code boilerplates designed to save you time on setup and project initialization.
 
-## Mục đích
+## Purpose
 
-Tổ chức này cung cấp các boilerplate (mẫu source code) chất lượng cao và sẵn sàng sử dụng cho các dự án .NET, giúp developers:
+This organization provides high-quality, ready-to-use boilerplates (source code templates) for .NET projects, helping developers:
 
-- ✅ **Tiết kiệm thời gian**: Không cần setup từ đầu, chỉ cần clone và bắt đầu coding
-- ✅ **Best practices**: Các boilerplate được xây dựng theo các best practices và patterns phổ biến
-- ✅ **Production-ready**: Code được cấu trúc và tổ chức sẵn cho môi trường production
-- ✅ **Dễ dàng tùy chỉnh**: Cấu trúc rõ ràng, dễ dàng mở rộng theo nhu cầu dự án
+- ✅ **Save time**: No need to setup from scratch, just clone and start coding
+- ✅ **Best practices**: Boilerplates built following popular best practices and patterns
+- ✅ **Production-ready**: Code structured and organized for production environments
+- ✅ **Easy to customize**: Clear structure, easy to extend based on project needs
 
-## Các Boilerplate có sẵn
+## Available Boilerplates
 
 ### 1. ASP.NET Core Web API Boilerplate
-Monolithic source code cho ASP.NET Core Web API với các tính năng:
+Monolithic source code for ASP.NET Core Web API with features:
 - Clean Architecture
 - Entity Framework Core
 - Authentication & Authorization
 - Swagger/OpenAPI documentation
-- Logging và Error Handling
+- Logging and Error Handling
 - Unit Testing setup
 
 ### 2. Azure Functions Boilerplate
-Template cho Azure Function App với:
+Template for Azure Function App with:
 - HTTP Triggers
 - Timer Triggers
 - Queue/Blob Triggers
@@ -33,18 +33,18 @@ Template cho Azure Function App với:
 - Configuration management
 - Local development setup
 
-### 3. Các boilerplate khác (đang phát triển)
+### 3. Other boilerplates (in development)
 - ASP.NET Core MVC
 - Microservices templates
 - Background Services
-- Và nhiều hơn nữa...
+- And more...
 
-## Cách sử dụng
+## How to Use
 
-1. **Browse repositories**: Xem danh sách các repositories trong organization để tìm boilerplate phù hợp
-2. **Clone repository**: Clone boilerplate bạn cần về máy
-3. **Customize**: Điều chỉnh configuration, namespace, và business logic theo dự án của bạn
-4. **Start coding**: Bắt đầu phát triển features cho dự án
+1. **Browse repositories**: View the list of repositories in the organization to find a suitable boilerplate
+2. **Clone repository**: Clone the boilerplate you need to your machine
+3. **Customize**: Adjust configuration, namespace, and business logic according to your project
+4. **Start coding**: Begin developing features for your project
 
 ```bash
 # Example
@@ -55,13 +55,13 @@ dotnet build
 dotnet run
 ```
 
-## Đóng góp
+## Contributing
 
-Nếu bạn muốn đóng góp thêm boilerplate hoặc cải thiện các template hiện có, hãy tạo Pull Request hoặc Issue. Mọi đóng góp đều được chào đón!
+If you want to contribute additional boilerplates or improve existing templates, please create a Pull Request or Issue. All contributions are welcome!
 
 ## License
 
-Các boilerplate trong tổ chức này được phân phối theo các license tương ứng được ghi rõ trong từng repository.
+The boilerplates in this organization are distributed under their respective licenses as specified in each repository.
 
 ---
 
